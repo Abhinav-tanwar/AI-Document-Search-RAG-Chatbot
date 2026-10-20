@@ -1,0 +1,15 @@
+# Private runtime data and credentials
+.env
+.env.*
+!.env.example
+.venv/
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
+node_modules/
+dist/
+.DS_Store
+*.tsbuildinfo
+
+.ruff_cache/
